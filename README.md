@@ -91,3 +91,6 @@ sudo apt-get install python3-pyaudio
 - Распознавание русской речи
 - Синтез речи для ответов
 - Удаление форматирования Markdown из ответов 
+
+## Лицензия
+MIT License
